@@ -10,8 +10,6 @@ Operations and analytics manager in South Florida. I run a seven-figure budget a
 
 **[cooling-economy](https://github.com/rograph/cooling-economy)**: interactive dashboard asking whether World Cup 2026 hydration breaks change the game
 
-**[friday-meeting](https://github.com/rograph/friday-meeting)**: a browser roguelike about corporate life, built as one self-contained HTML file
-
 ## Background
 
 MBA, Lean Six Sigma Green Belt, bilingual English/Spanish. Day to day tools: Power BI, DAX, Excel, Workday, Notion.
