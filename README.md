@@ -1,16 +1,19 @@
-## Hi there 👋
+# Rodolfo Lopez
 
-<!--
-**rograph/rograph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations and analytics manager in South Florida. I run a seven-figure budget at FAU's Career Center and build the reporting behind it: Power BI dashboards and the automations that keep manual work off people's plates.
 
-Here are some ideas to get you started:
+**Portfolio: [rodolfo.app](https://rodolfo.app)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's here
+
+**[rodolfo-portfolio](https://github.com/rograph/rodolfo-portfolio)**: source for my portfolio site, with Power BI and FP&A case studies
+
+**[cooling-economy](https://github.com/rograph/cooling-economy)**: interactive dashboard asking whether World Cup 2026 hydration breaks change the game
+
+**[friday-meeting](https://github.com/rograph/friday-meeting)**: a browser roguelike about corporate life, built as one self-contained HTML file
+
+## Background
+
+MBA, Lean Six Sigma Green Belt, bilingual English/Spanish. Day to day tools: Power BI, DAX, Excel, Workday, Notion.
+
+[LinkedIn](https://www.linkedin.com/in/rdflopez/) | rdflopez@gmail.com
